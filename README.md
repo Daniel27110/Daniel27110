@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**Daniel27110/Daniel27110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello everyone! I'm Daniel :wave:
 
-Here are some ideas to get you started:
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&theme=dark&show_icons=true">
+    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Daniel27110&show_icons=true&count_private=true">
+</picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an undergraduate software engineer from Colombia, filled with enthusiasm for the seemingly limitless possibilities of artificial intelligence. Nice to meet you!
+
+-   :hammer_and_pick: Java / Python / Go / TypeScript / CSS
+-   :pencil2: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [i3wm](https://i3wm.org/) / [Neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [yadm](https://github.com/TheLocehiliosan/yadm)
+-   :seedling: Taking courses & doing assignments at THU
+-   :thought_balloon: Feel free to ask anything at [Discussions](https://github.com/ouuan/Daniel27110/discussions/new)!
