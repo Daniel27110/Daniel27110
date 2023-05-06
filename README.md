@@ -11,4 +11,4 @@ I am an undergraduate software engineer from Colombia, filled with enthusiasm fo
 -   🛠️  Java / Python / Go / TypeScript / CSS
 -   ✏️  Arch Linux / Dotfiles / Web Development
 -   🕓  Taking courses and studying at university
--   💬  Feel free to ask me anything [Here](https://github.com/ouuan/Daniel27110/discussions/new)!
+-   💬  Feel free to ask me anything [Here](https://github.com/Daniel27110/Daniel27110/discussions)!
