@@ -1,4 +1,4 @@
-## Hello everyone! I'm Daniel 👋
+## Hello everyone! I'm Daniel
 
 <picture>
 <img align="right" width="50%" src="https://github-readme-stats-daniel27110.vercel.app/api?username=Daniel27110&show_icons=true&bg_color=00000000&hide_border=true&count_private=true&include_all_commits=true" />
