@@ -1,0 +1,43 @@
+name: Cache Action
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: 0 */4 * * * # Every 4 hours, change it accordingly
+
+jobs:
+  stats:
+    permissions: write-all
+    runs-on: ubuntu-latest
+    name: Stats Card
+    steps:
+      - uses: actions/checkout@v3
+        name: Check out current commit
+      - uses: suisei-cn/actions-download-file@v1.3.0
+        id: stats
+        name: Download the stats file
+        with:
+          url: "github-readme-stats-hro9z76x2-daniel27110.vercel.app"
+          target: grs
+          filename: stats.svg # Need to have the file name prepared as svg
+      - uses: actions/upload-artifact@master
+        with:
+          name: stats
+          path: grs
+
+  push:
+    permissions: write-all
+    runs-on: ubuntu-latest
+    name: Push
+    needs: [stats] # Put any jobs (card) needed here before we push
+    steps:
+      - uses: actions/download-artifact@master
+        with:
+          name: stats
+          path: grs
+      - name: Push
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: resource/grs # May change to your desired branch name, the final URL need to be updated if you change this
+          build_dir: grs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
