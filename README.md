@@ -1,19 +1,7 @@
 ## Hello everyone! I'm Daniel 
 
 
-
-<picture>
-  <source
-    srcset="https://github-readme-custom-git-main-daniel27110.vercel.app/api?username=Daniel27110&show_icons=true&bg_color=00000000&hide_border=true&count_private=true&include_all_commits=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-custom-git-main-daniel27110.vercel.app/api?username=Daniel27110&show_icons=true&bg_color=00000000&hide_border=true&count_private=true&include_all_commits=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img align="right" width="50%" src="https://github-readme-custom-git-main-daniel27110.vercel.app/api?username=Daniel27110&show_icons=true&bg_color=00000000&hide_border=true&count_private=true&include_all_commits=true" />
-</picture>
-
+<img align="right" width="50%" src="http://github-readme-stats-nu-flame-29.vercel.app/api?username=Daniel27110&show_icons=true&theme=transparent&hide_border=true"/>
 I am an undergraduate software engineer from Colombia, filled with enthusiasm for the seemingly endless possibilities of artificial intelligence. It's a pleasure to meet you!
 
 -   🛠️  Java, Python, HTML, CSS, JavaScript, TypeScript
