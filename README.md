@@ -1,7 +1,7 @@
 <!-- About Section -->
  ## Hello everyone! I'm Daniel
  
-<img align="right" width="350" height ="190" src="https://raw.githubusercontent.com/Daniel27110/github-profile-summary-card/master/profile-summary-card-output/nord_bright/3-stats.svg" alt="Dot-Files-Rouge" />
+<img align="right" width="360" height ="190" src="https://raw.githubusercontent.com/Daniel27110/github-profile-summary-card/master/profile-summary-card-output/nord_bright/3-stats.svg" alt="Dot-Files-Rouge" />
 
 
 <p>
@@ -14,7 +14,7 @@ I am an undergraduate software engineer from Colombia, filled with enthusiasm fo
 &emsp; 🕓  Studying and taking classes at university 
 
 
-&emsp; 💬  Feel free to ask me anything [Here](https://github.com/Daniel27110/Daniel27110/discussions)! 
+&emsp; 💬  Feel free to ask me anything [Here](https://github.com/Daniel27110/Daniel27110/discussions)
 
 </p>
 
