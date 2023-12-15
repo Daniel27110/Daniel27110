@@ -55,10 +55,4 @@ I am an undergraduate software engineer from Colombia, filled with enthusiasm fo
 
 
 ## Activity
-<img src="https://raw.githubusercontent.com/Daniel27110/github-profile-summary-card/master/profile-summary-card-output/rose_pine/0-profile-details.svg" width ="90%" />
-
-## Top Projects
-<p>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Daniel27110&repo=Dot-Files-Rouge&border_color=191724&bg_color=191724&title_color=9CCFD8&text_color=E0DEF4&icon_color=EBBCBA" width ="40%" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Daniel27110&repo=Discord-AI-Chat-Naka&border_color=191724&bg_color=191724&title_color=9CCFD8&text_color=E0DEF4&icon_color=EBBCBA" width ="40%" />
-</p>
+<img src="https://raw.githubusercontent.com/Daniel27110/github-profile-summary-card/master/profile-summary-card-output/rose_pine/0-profile-details.svg" width ="100%" />
