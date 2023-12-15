@@ -7,16 +7,8 @@
 <p>
 
 
-I am an undergraduate software engineer from Colombia, filled with enthusiasm for the seemingly endless possibilities of artificial intelligence. It's a pleasure to meet you!
-
-<br>
-  
-
-
-
-
+I am an undergraduate software engineer from Colombia, filled with enthusiasm for the seemingly endless possibilities of artificial intelligence. It's a pleasure to meet you!<br>  
 &emsp; ✏️  Linux Applications, Full Stack Development
-
 
 
 &emsp; 🕓  Studying and taking classes at university 
