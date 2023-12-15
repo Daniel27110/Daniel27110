@@ -1,7 +1,7 @@
 <!-- About Section -->
  ## Hello everyone! I'm Daniel
  
-<img align="right" width="400" height ="260" src="https://raw.githubusercontent.com/Daniel27110/github-profile-summary-card/master/profile-summary-card-output/rose_pine/3-stats.svg" alt="Dot-Files-Rouge" />
+<img align="right" width="350" height ="240" src="https://raw.githubusercontent.com/Daniel27110/github-profile-summary-card/master/profile-summary-card-output/rose_pine/3-stats.svg" alt="Dot-Files-Rouge" />
 
 
 <p>
@@ -12,8 +12,6 @@ I am an undergraduate software engineer from Colombia, filled with enthusiasm fo
 <br>
   
 
-
-&emsp; 🛠️  Java, Python, HTML, CSS, JavaScript, TypeScript 
 
 
 
