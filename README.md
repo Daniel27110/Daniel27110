@@ -7,9 +7,7 @@
 <p>
 
 
-I am an undergraduate software engineer from Colombia, filled with <br/>
-enthusiasm for the seemingly endless possibilities of artificial intelligence. <br/>
-It's a pleasure to meet you!
+I am an undergraduate software engineer from Colombia, filled with enthusiasm for the seemingly endless possibilities of artificial intelligence. It's a pleasure to meet you!
 
 <br>
   
@@ -60,5 +58,7 @@ It's a pleasure to meet you!
 <img src="https://raw.githubusercontent.com/Daniel27110/github-profile-summary-card/master/profile-summary-card-output/rose_pine/0-profile-details.svg" width ="90%" />
 
 ## Top Projects
-[![Dot-Files-Rouge](https://github-readme-stats.vercel.app/api/pin/?username=Daniel27110&repo=Dot-Files-Rouge&border_color=191724&bg_color=191724&title_color=9CCFD8&text_color=E0DEF4&icon_color=EBBCBA)](https://github.com/Daniel27110/Dot-Files-Rouge)
-[![Naka-Discord-Bot](https://github-readme-stats.vercel.app/api/pin/?username=Daniel27110&repo=Discord-AI-Chat-Naka&border_color=191724&bg_color=191724&title_color=9CCFD8&text_color=E0DEF4&icon_color=EBBCBA)](https://github.com/Daniel27110/Discord-AI-Chat-Naka)
+<p>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Daniel27110&repo=Dot-Files-Rouge&border_color=191724&bg_color=191724&title_color=9CCFD8&text_color=E0DEF4&icon_color=EBBCBA" width ="40%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Daniel27110&repo=Discord-AI-Chat-Naka&border_color=191724&bg_color=191724&title_color=9CCFD8&text_color=E0DEF4&icon_color=EBBCBA" width ="40%" />
+</p>
