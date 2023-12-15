@@ -59,9 +59,6 @@ It's a pleasure to meet you!
 ## Activity
 <img src="https://raw.githubusercontent.com/Daniel27110/github-profile-summary-card/master/profile-summary-card-output/rose_pine/0-profile-details.svg" width ="90%" />
 
-## Projects
-
-
+## Top Projects
 [![Dot-Files-Rouge](https://github-readme-stats.vercel.app/api/pin/?username=Daniel27110&repo=Dot-Files-Rouge&border_color=191724&bg_color=191724&title_color=9CCFD8&text_color=E0DEF4&icon_color=EBBCBA)](https://github.com/Daniel27110/Dot-Files-Rouge)
-
 [![Naka-Discord-Bot](https://github-readme-stats.vercel.app/api/pin/?username=Daniel27110&repo=Discord-AI-Chat-Naka&border_color=191724&bg_color=191724&title_color=9CCFD8&text_color=E0DEF4&icon_color=EBBCBA)](https://github.com/Daniel27110/Discord-AI-Chat-Naka)
