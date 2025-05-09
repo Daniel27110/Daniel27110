@@ -45,6 +45,6 @@ I am an undergraduate software engineer from Colombia, filled with enthusiasm fo
 ## Activity
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Daniel27110/github-profile-summary-card/master/profile-summary-card-output/default/0-profile-details.svg" width ="90%"/>
+    <img src="https://raw.githubusercontent.com/Daniel27110/github-profile-summary-card/master/profile-summary-card-output/default/0-profile-details.svg" width ="88%"/>
 </p>
 
