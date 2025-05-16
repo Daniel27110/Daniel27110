@@ -34,6 +34,7 @@ I am an undergraduate software engineer from Colombia, filled with enthusiasm fo
 ![MongoDB](https://img.shields.io/badge/MongoDB-8283A1?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8283A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-151527?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=black)
+![Docker](https://img.shields.io/badge/Docker-8283A1?style=for-the-badge&logo=docker&logoColor=white&labelColor=black)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-8283A1?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=black)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-8283A1.svg?style=for-the-badge&logo=vsc&logoColor=fff&labelColor=black)](#)
 ![Git](https://img.shields.io/badge/Git-D7A1A5?style=for-the-badge&logo=git&logoColor=white&labelColor=black)
