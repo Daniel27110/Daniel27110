@@ -1,7 +1,7 @@
 <!-- About Section -->
  ## Hello everyone! I'm Daniel
  
-<img align="right" width="360" height ="190" src="https://raw.githubusercontent.com/Daniel27110/github-profile-summary-card/master/profile-summary-card-output/default/3-stats.svg" alt="Dot-Files-Rouge" />
+<img align="right" width="370" height ="190" src="https://raw.githubusercontent.com/Daniel27110/github-profile-summary-card/master/profile-summary-card-output/default/3-stats.svg" alt="Dot-Files-Rouge" />
 
 
 <p>
