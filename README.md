@@ -24,7 +24,7 @@ I am an undergraduate software engineer from Colombia, filled with enthusiasm fo
 ![Python](https://img.shields.io/badge/Python-8283A1?style=for-the-badge&logo=python&logoColor=white&labelColor=black)
 ![Java](https://img.shields.io/badge/Java-D7A1A5?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-D7A1A5?style=for-the-badge&logo=html5&logoColor=white&labelColor=black)
-![CSS](https://img.shields.io/badge/CSS-8283A1?style=for-the-badge&logo=css3&logoColor=white&labelColor=black)
+![CSS](https://img.shields.io/badge/CSS-8283A1?style=for-the-badge&logo=css&logoColor=white&labelColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-D7A1A5?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8283A1?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=black)
 ![Express.js](https://img.shields.io/badge/Express.js-151527?style=for-the-badge&logo=express&logoColor=white&labelColor=black)
