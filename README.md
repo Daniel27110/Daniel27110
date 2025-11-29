@@ -1,4 +1,4 @@
-<!-- About Section -->
+<img width="841" height="179" alt="image" src="https://github.com/user-attachments/assets/f53ab702-26f8-4684-a8a8-8a7a9810b735" /><!-- About Section -->
  ## Hello everyone! I'm Daniel
  
 <img align="right" width="370" height ="190" src="https://raw.githubusercontent.com/Daniel27110/github-profile-summary-card/master/profile-summary-card-output/default/3-stats.svg" alt="Dot-Files-Rouge" />
@@ -30,6 +30,7 @@ I am an undergraduate software engineer from Colombia, filled with enthusiasm fo
 ![React](https://img.shields.io/badge/React-8283A1?style=for-the-badge\&logo=react\&logoColor=white\&labelColor=black)
 ![Flask](https://img.shields.io/badge/Flask-151527?style=for-the-badge\&logo=flask\&logoColor=white\&labelColor=black)
 ![Django](https://img.shields.io/badge/Django-151527?style=for-the-badge\&logo=django\&logoColor=white\&labelColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-151527?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=black)
 ![Spring](https://img.shields.io/badge/Spring-8283A1?style=for-the-badge\&logo=spring\&logoColor=white\&labelColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-8283A1?style=for-the-badge\&logo=mongodb\&logoColor=white\&labelColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8283A1?style=for-the-badge\&logo=postgresql\&logoColor=white\&labelColor=black)
