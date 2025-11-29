@@ -22,12 +22,12 @@ I am an undergraduate software engineer from Colombia, filled with enthusiasm fo
 
 ## Skills
 ![Python](https://img.shields.io/badge/Python-8283A1?style=for-the-badge&logo=python&logoColor=white&labelColor=black)
+![C++](https://img.shields.io/badge/C++-D7A1A5?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=black)
 ![Java](https://img.shields.io/badge/Java-D7A1A5?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-D7A1A5?style=for-the-badge&logo=html5&logoColor=white&labelColor=black)
+![HTML](https://img.shields.io/badge/HTML-D7A1A5?style=for-the-badge&logo=html5&logoColor=white&labelColor=black)
 ![CSS](https://img.shields.io/badge/CSS-8283A1?style=for-the-badge&logo=css&logoColor=white&labelColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-D7A1A5?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8283A1?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=black)
-![Express.js](https://img.shields.io/badge/Express.js-151527?style=for-the-badge&logo=express&logoColor=white&labelColor=black)
 ![Django](https://img.shields.io/badge/Django-151527?style=for-the-badge&logo=django&logoColor=white&labelColor=black)
 ![Flask](https://img.shields.io/badge/Flask-151527?style=for-the-badge&logo=flask&logoColor=white&labelColor=black)
 ![Spring](https://img.shields.io/badge/Spring-8283A1?style=for-the-badge&logo=spring&logoColor=white&labelColor=black)
@@ -37,10 +37,11 @@ I am an undergraduate software engineer from Colombia, filled with enthusiasm fo
 ![Docker](https://img.shields.io/badge/Docker-8283A1?style=for-the-badge&logo=docker&logoColor=white&labelColor=black)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-8283A1?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=black)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-8283A1.svg?style=for-the-badge&logo=vsc&logoColor=fff&labelColor=black)](#)
-![Git](https://img.shields.io/badge/Git-D7A1A5?style=for-the-badge&logo=git&logoColor=white&labelColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-151527?style=for-the-badge&logo=github&logoColor=white&labelColor=black)
 ![Linux](https://img.shields.io/badge/Linux-D7A1A5?style=for-the-badge&logo=linux&logoColor=fff&labelColor=black)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-8283A1?style=for-the-badge&logo=arch-linux&logoColor=fff&labelColor=black)
+![Bash](https://img.shields.io/badge/Bash-151527?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=black)
+
 
 
 
