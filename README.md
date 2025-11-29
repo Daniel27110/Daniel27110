@@ -1,4 +1,4 @@
-<img width="841" height="179" alt="image" src="https://github.com/user-attachments/assets/f53ab702-26f8-4684-a8a8-8a7a9810b735" /><!-- About Section -->
+<!-- About Section -->
  ## Hello everyone! I'm Daniel
  
 <img align="right" width="370" height ="190" src="https://raw.githubusercontent.com/Daniel27110/github-profile-summary-card/master/profile-summary-card-output/default/3-stats.svg" alt="Dot-Files-Rouge" />
@@ -51,4 +51,3 @@ I am an undergraduate software engineer from Colombia, filled with enthusiasm fo
     <img src="https://raw.githubusercontent.com/Daniel27110/github-profile-summary-card/master/profile-summary-card-output/default/0-profile-details.svg" width ="66%"/>
      <img src="https://raw.githubusercontent.com/Daniel27110/github-profile-summary-card/master/profile-summary-card-output/default/4-productive-time.svg" width ="32%"/>
 </p>
-
