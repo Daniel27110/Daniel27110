@@ -33,7 +33,7 @@ I am an undergraduate software engineer from Colombia, filled with enthusiasm fo
 ![FastAPI](https://img.shields.io/badge/FastAPI-151527?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=black)
 ![Spring](https://img.shields.io/badge/Spring-8283A1?style=for-the-badge\&logo=spring\&logoColor=white\&labelColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-8283A1?style=for-the-badge\&logo=mongodb\&logoColor=white\&labelColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8283A1?style=for-the-badge\&logo=postgresql\&logoColor=white\&labelColor=black)
+![PostgreSQL](https://img.shields.io/badge/Postgres-8283A1?style=for-the-badge\&logo=postgresql\&logoColor=white\&labelColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-151527?style=for-the-badge\&logo=sqlite\&logoColor=white\&labelColor=black)
 ![Docker](https://img.shields.io/badge/Docker-8283A1?style=for-the-badge\&logo=docker\&logoColor=white\&labelColor=black)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-8283A1?style=for-the-badge\&logo=google-cloud\&logoColor=white\&labelColor=black)
