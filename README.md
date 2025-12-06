@@ -7,11 +7,9 @@
 <p>
 
 
-I am an undergraduate software engineer from Colombia, filled with enthusiasm for the seemingly endless possibilities of artificial intelligence. It's a pleasure to meet you!<br>  
-&emsp; ✏️  Linux Applications & Full Stack Development
+I’m a software engineering student from Colombia, interested in software development and applied machine learning. Currently living and studying in France. It's a pleasure to meet you!<br>  
+&emsp; ✏️  Full Stack Development & Machine Learning Projects
 
-
-&emsp; 🕓  Studying and taking classes at university 
 
 
 &emsp; 💬  Feel free to ask me anything [Here](https://github.com/Daniel27110/Daniel27110/discussions)
