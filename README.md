@@ -1,22 +1,15 @@
 <!-- About Section -->
  ## Hello everyone! I'm Daniel
  
-<img align="right" width="370" height ="190" src="https://raw.githubusercontent.com/Daniel27110/github-profile-summary-card/master/profile-summary-card-output/default/3-stats.svg" alt="Dot-Files-Rouge" />
+<img align="right" width="370" src="https://raw.githubusercontent.com/Daniel27110/github-profile-summary-card/master/profile-summary-card-output/default/3-stats.svg" alt="Stats Card" />
 
+I’m a software engineering student from Colombia, interested in software development and applied machine learning. Currently living and studying in France. It's a pleasure to meet you!
 
-<p>
+&emsp; ✏️ Full Stack Development & Machine Learning Projects
 
+&emsp; 💬 Feel free to ask me anything [Here](https://github.com/Daniel27110/Daniel27110/discussions)
 
-I’m a software engineering student from Colombia, interested in software development and applied machine learning. Currently living and studying in France. It's a pleasure to meet you!<br>  
-&emsp; ✏️  Full Stack Development & Machine Learning Projects
-
-
-
-&emsp; 💬  Feel free to ask me anything [Here](https://github.com/Daniel27110/Daniel27110/discussions)
-
-</p>
-
-
+<br>
 
 ## Skills
 ![Python](https://img.shields.io/badge/Python-8283A1?style=for-the-badge\&logo=python\&logoColor=white\&labelColor=black)
