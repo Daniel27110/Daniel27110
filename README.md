@@ -1,13 +1,13 @@
 <!-- About Section -->
- ## Hello everyone! I'm Daniel
+ ## Hello! I'm Daniel
  
 <img align="right" width="370" src="https://raw.githubusercontent.com/Daniel27110/github-profile-summary-card/master/profile-summary-card-output/default/3-stats.svg" alt="Stats Card" />
 
-I’m a software engineering student from Colombia, interested in software development and applied machine learning. Currently living and studying in France. It's a pleasure to meet you!
+I’m a software engineering student from Colombia, interested in software development and data science. Currently living and studying in France. It's a pleasure to meet you!
 
-&emsp; ✏️ Full Stack Development & Machine Learning Projects
+&emsp; ● Always looking for book recommendations
 
-&emsp; 💬 Feel free to ask me anything [Here](https://github.com/Daniel27110/Daniel27110/discussions)
+&emsp; ● Feel free to ask me anything [Here](https://github.com/Daniel27110/Daniel27110/discussions)
 
 <br>
 
